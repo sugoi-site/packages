@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "build": "lerna run build",
+    "lerna:pub": "lerna publish from-package",
+    "lerna:version": "lerna version",
+    "release": "yarn build && yarn lerna:version && yarn lerna:pub"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

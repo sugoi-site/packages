@@ -1,0 +1,22 @@
+{
+  "name": "@sugoi/lib-a",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "shuntaka9576 <shuntaka9576@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/sugoi-lib-backend.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6"
+  }
+}
