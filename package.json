@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "lerna run build",
-    "lerna:pub": "lerna publish",
+    "lerna:pub": "lerna publish from-git",
     "lerna:version": "lerna version",
     "release": "yarn build && yarn lerna:version && yarn lerna:pub"
   },
