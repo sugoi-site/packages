@@ -1,5 +1,5 @@
 {
-  "name": "@sugoi/lib-a",
+  "name": "@sugoi-site/lib-a",
   "version": "0.1.2",
   "description": "> TODO: description",
   "author": "shuntaka9576 <shuntaka9576@gmail.com>",
@@ -22,5 +22,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "acf2ba4b34ed331624a95bafbc7828d2680d10d3"
+  "gitHead": "17260cd63b37f0289c1a0178c52bc86f52ac16ce"
 }
