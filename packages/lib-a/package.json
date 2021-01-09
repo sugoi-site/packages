@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@fast-csv/parse": "^4.3.6"
-  }
+  },
+  "gitHead": "806cd92b7c8218656aa2f888257b87ab540b36e1"
 }
