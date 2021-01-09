@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.3.0...@sugoi-site/lib-a@0.4.0) (2021-01-09)
+
+
+### Features
+
+* **lib-a:** add sampleB func ([3ab26fc](https://github.com/sugoi-site/packages/commit/3ab26fc18d11a24869af153c89c9cf983c7f4e62))
+
+
+
+
+
 # [0.3.0](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.2.0...@sugoi-site/lib-a@0.3.0) (2021-01-09)
 
 
