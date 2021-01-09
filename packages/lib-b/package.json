@@ -14,7 +14,9 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "build": "yarn clean;yarn compile",
+    "compile": "tsc",
+    "clean": "rm -rf ./build"
   },
   "dependencies": {
     "@fast-csv/parse": "^4.3.6"

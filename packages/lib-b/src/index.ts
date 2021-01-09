@@ -1,3 +1,3 @@
-export const frontendUtilFunc = () => {
-  console.log('frontendUtilFunc')
-}
+export const backendUtilFunc = (): void => {
+  console.log("backendUtilFunc");
+};
