@@ -2,7 +2,7 @@
   "name": "root",
   "scripts": {
     "build": "lerna run build",
-    "lerna:pub": "lerna publish from-git",
+    "lerna:pub": "lerna publish from-package",
     "lerna:version": "lerna version",
     "release": "yarn build && yarn lerna:version && yarn lerna:pub"
   },
