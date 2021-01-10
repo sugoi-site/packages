@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.9](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.8...@sugoi-site/lib-a@0.5.9) (2021-01-10)
+
+
+### Bug Fixes
+
+* otameshi ([18b3ceb](https://github.com/sugoi-site/packages/commit/18b3ceb2c63e44c0c5df71930d2697b9d215504d))
+
+
+
+
+
 ## [0.5.8](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.7...@sugoi-site/lib-a@0.5.8) (2021-01-10)
 
 
