@@ -12,7 +12,8 @@
     "test": "__tests__"
   },
   "files": [
-    "build/src/**"
+    "build/src/**",
+    ".babelrc.js"
   ],
   "scripts": {
     "build": "yarn clean;yarn compile",
