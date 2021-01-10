@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.1...@sugoi-site/lib-a@0.5.2) (2021-01-10)
+
+
+### Bug Fixes
+
+* npm module add .babelrc.js ([17bd7eb](https://github.com/sugoi-site/packages/commit/17bd7eb2ea010e3ede08fba404d2ba29ecd27547))
+
+
+
+
+
 ## [0.5.1](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.0...@sugoi-site/lib-a@0.5.1) (2021-01-10)
 
 
