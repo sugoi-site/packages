@@ -6,13 +6,17 @@ import Token from 'markdown-it/lib/token';
 import Renderer from 'markdown-it/lib/renderer';
 import Prismjs from 'prismjs';
 import loadLanguages from 'prismjs/components/';
-import 'prismjs/components/prism-bash';
-import 'prismjs/components/prism-typescript';
-import 'prismjs/components/prism-go';
-import 'prismjs/components/prism-json';
-import 'prismjs/components/prism-css';
-import 'prismjs/components/prism-yaml';
-import 'prismjs/components/prism-ruby';
+// import 'prismjs/components/prism-bash';
+// import 'prismjs/components/prism-typescript';
+// import 'prismjs/components/prism-go';
+// import 'prismjs/components/prism-json';
+// import 'prismjs/components/prism-css';
+// import 'prismjs/components/prism-yaml';
+// import 'prismjs/components/prism-ruby';
+
+const importLang = (lang: string) => {
+  require(`prismjs/components/prism-${lang}`);
+};
 
 const convertToHtml = (markdown: string): string => {
   const md = new MarkdownIt({
@@ -29,7 +33,7 @@ const convertToHtml = (markdown: string): string => {
     const prismLang = ((): Prismjs.Grammar => {
       const la = Prismjs.languages[lang];
       if (la === undefined) {
-        loadLanguages([lang]);
+        require(`prismjs/components/prism-${lang}`);
         return Prismjs.languages[lang];
       }
 
