@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.7](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.6...@sugoi-site/lib-a@0.5.7) (2021-01-10)
+
+
+### Bug Fixes
+
+* adjustment prismjs ([b5fb560](https://github.com/sugoi-site/packages/commit/b5fb560d06a0233f6dcb89af0b53e7ef8b74d61e))
+
+
+
+
+
 ## [0.5.6](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.5...@sugoi-site/lib-a@0.5.6) (2021-01-10)
 
 
