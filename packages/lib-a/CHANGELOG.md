@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.6](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.5...@sugoi-site/lib-a@0.5.6) (2021-01-10)
+
+
+### Bug Fixes
+
+* babel-plugin ([a31661a](https://github.com/sugoi-site/packages/commit/a31661a3d938b178eb35867aac8e0ad7a3e71576))
+
+
+
+
+
 ## [0.5.5](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.4...@sugoi-site/lib-a@0.5.5) (2021-01-10)
 
 
