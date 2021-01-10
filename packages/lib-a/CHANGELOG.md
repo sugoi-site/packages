@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.10](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.9...@sugoi-site/lib-a@0.5.10) (2021-01-10)
+
+
+### Bug Fixes
+
+* loadLanguage ([5ea52e8](https://github.com/sugoi-site/packages/commit/5ea52e8243bd89c0298910f196e044d3d44979a9))
+
+
+
+
+
 ## [0.5.9](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.8...@sugoi-site/lib-a@0.5.9) (2021-01-10)
 
 
