@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.4.3...@sugoi-site/lib-a@0.5.0) (2021-01-10)
+
+
+### Features
+
+* add markdown parse lib ([2d2b7ee](https://github.com/sugoi-site/packages/commit/2d2b7eebb291537a4937c2bd56306ea6d33d8937))
+
+
+
+
+
 ## [0.4.3](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.4.2...@sugoi-site/lib-a@0.4.3) (2021-01-09)
 
 **Note:** Version bump only for package @sugoi-site/lib-a
