@@ -34,6 +34,7 @@ const convertToHtml = (markdown: string): string => {
       const la = Prismjs.languages[lang];
       if (la === undefined) {
         require(`prismjs/components/prism-${lang}`);
+        loadLanguages([lang]);
         return Prismjs.languages[lang];
       }
 
