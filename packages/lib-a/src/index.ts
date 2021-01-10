@@ -30,10 +30,10 @@ const convertToHtml = (markdown: string): string => {
       permalink: true,
     });
   md.options.highlight = (str: string, lang: string): string => {
+    require(`prismjs/components/prism-${lang}`);
     const prismLang = ((): Prismjs.Grammar => {
       const la = Prismjs.languages[lang];
       if (la === undefined) {
-        require(`prismjs/components/prism-${lang}`);
         loadLanguages([lang]);
         return Prismjs.languages[lang];
       }
