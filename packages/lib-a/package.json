@@ -22,6 +22,7 @@
     "test": "yarn jest"
   },
   "dependencies": {
+    "babel-plugin-prismjs": "^2.0.1",
     "markdown-it": "^12.0.4",
     "markdown-it-anchor": "^7.0.0",
     "markdown-it-br": "^1.0.0",
