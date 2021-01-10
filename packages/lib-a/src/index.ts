@@ -6,7 +6,6 @@ import Token from 'markdown-it/lib/token';
 import Renderer from 'markdown-it/lib/renderer';
 import Prismjs from 'prismjs';
 import loadLanguages from 'prismjs/components/';
-loadLanguages(['bash', 'go', 'typescript', 'css', 'html', 'yaml', 'json']);
 
 const convertToHtml = (markdown: string): string => {
   const md = new MarkdownIt({
