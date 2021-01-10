@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.5](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.4...@sugoi-site/lib-a@0.5.5) (2021-01-10)
+
+
+### Bug Fixes
+
+* fix lib-a ([d0fb812](https://github.com/sugoi-site/packages/commit/d0fb812c0e46544fc51f1229de0c9bb9710915ba))
+
+
+
+
+
 ## [0.5.4](https://github.com/sugoi-site/packages/compare/@sugoi-site/lib-a@0.5.3...@sugoi-site/lib-a@0.5.4) (2021-01-10)
 
 
